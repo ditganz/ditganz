@@ -18,8 +18,8 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Gebianbotz-Mdོ" //namabot kalian
-global.ownername= "DittGanz.7" //nama kalian
+global.botname = "𝐆𝐞𝐛𝐢𝐚𝐧𝐧-𝐌𝐃ོ-𝐌𝐃ོ" //namabot kalian
+global.ownername= "𝐃𝐢𝐭𝐭𝐆𝐚𝐧𝐳.𝟕ོ" //nama kalian
 global.myweb ="https://instagram.com/ditt.storee" //bebas asal jan hapus
 global.youtube = "https://instagram.com/ditt.storee" //bebas asal jan hapus
 global.github = "https://ditganz.github.io/" //bebas
@@ -31,8 +31,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6281387292249","6285890397900"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Gebianbotz-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh DittGanz.7' //sticker wm ganti nama kalian
+global.packname = '© 𝐆𝐞𝐛𝐢𝐚𝐧𝐁𝐨𝐭𝐳-𝐌𝐃ོ' //sticker wm ubah
+global.author = 'Di Buat Oleh 𝐃𝐢𝐭𝐭𝐆𝐚𝐧𝐳.𝟕ོ' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
