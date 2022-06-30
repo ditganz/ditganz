@@ -797,29 +797,17 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}rose
 
 ╭─❒ 「 TqTo 」 
-
 ├ Allah SWT.
-
 ├ Orang tua
-
 ├ Fatih A.
-
 ├ Ferdi
-
 ├ DikaArdnt
-
 ├ Mhankbarbar
-
 ├ Nurutomo
-
 ├ Rashid
-
 ├ DittBotzOfficial 
-
 ├ ZeeoneOfc
-
 ├ Penyedia Module
-
 ╰❒ And All Support
     `
 }
@@ -888,9 +876,19 @@ exports.tos = (ownernomer) => {
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 
+*Q.S Az-Zalzalah Ayat 7 :*
+
+فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ
+
+Artinya : Maka barangsiapa 
+mengerjakan kebaikan seberat
+zarrah, niscaya dia akan melihat 
+(balasan)nya.
 Berapapun donasi kalian akan sangat berarti 👍
 
-Thanks!
+Terimakasih buat yg sudah donasi🙏
+Semoga rezekinya dilancarkan oleh Allah SWT. 
+Amiinn 
 
 Contact person Owner:
 wa.me/${ownernomer}
