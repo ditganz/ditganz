@@ -92,7 +92,7 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu 𝐆𝐞𝐛𝐢𝐚𝐧𝐁𝐨𝐭𝐳-𝐌𝐃ོ :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -310,7 +310,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}twitter link
 
 ╭─❒ 「 Primbon 」
-├ ${prefix}nomorhoki 887435047326
+├ ${prefix}nomorhoki 6281387292249
 ├ ${prefix}artimimpi [query]
 ├ ${prefix}artinama [query]
 ├ ${prefix}ramaljodoh
@@ -797,16 +797,29 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}rose
 
 ╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
+
+├ Allah SWT.
+
+├ Orang tua
+
 ├ Fatih A.
+
 ├ Ferdi
+
 ├ DikaArdnt
+
 ├ Mhankbarbar
+
 ├ Nurutomo
+
 ├ Rashid
+
+├ DittBotzOfficial 
+
 ├ ZeeoneOfc
+
 ├ Penyedia Module
+
 ╰❒ And All Support
     `
 }
@@ -842,9 +855,9 @@ Sanksi: *PERMANENT BLOCK*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan Gebianbotz di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
+Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Gebianbotz 
 😖🙏
 `
 }
