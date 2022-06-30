@@ -18,7 +18,7 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "𝐆𝐞𝐛𝐢𝐚𝐧𝐧-𝐌𝐃ོ-𝐌𝐃ོ" //namabot kalian
+global.botname = "𝐆𝐞𝐛𝐢𝐚𝐧𝐧-𝐌𝐃ོ" //namabot kalian
 global.ownername= "𝐃𝐢𝐭𝐭𝐆𝐚𝐧𝐳.𝟕ོ" //nama kalian
 global.myweb ="https://instagram.com/ditt.storee" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/DittBotzOfficial " //bebas asal jan hapus
